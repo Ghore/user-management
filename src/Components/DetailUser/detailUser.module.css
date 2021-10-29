@@ -1,0 +1,49 @@
+.detail__list {
+  margin-top: 24px;
+  margin-left: 22px;
+}
+
+.detail__list_item {
+  padding-top: 8px;
+}
+
+.detail__name {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.detail__user_ligth {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #67a0e0;
+}
+
+.detail__birthdate {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.detail__gender {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.btn__wrapper{
+    display: flex;
+}
+.detail__button_del {
+  margin-top: 12px;
+}
+
+.detail__button_edit {
+  margin-top: 12px;
+  margin-left: 8px;
+}

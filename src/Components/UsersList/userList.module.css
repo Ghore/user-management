@@ -1,0 +1,51 @@
+.user__button_add {
+  margin-top: 14px;
+  margin-left: 22px;
+}
+
+.user__button_del {
+  margin-top: 8px;
+}
+.user__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.user__list {
+  width: 320px;
+  margin-top: 24px;
+  margin-left: 22px;
+}
+
+.user__list_item {
+  padding-top: 8px;
+}
+
+.user__name {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.user__info_ligth {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #67a0e0;
+}
+
+.user__birthdate {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.user__gender {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 18px;
+}
